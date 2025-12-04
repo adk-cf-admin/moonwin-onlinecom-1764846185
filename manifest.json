@@ -1,0 +1,19 @@
+{
+  "name": "Moonwin",
+  "short_name": "Moonwin",
+  "theme_color": "",
+  "background_color": "#100f0f",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1764773890-favicon-5.svg",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
